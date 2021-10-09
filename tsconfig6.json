@@ -1,0 +1,7 @@
+{
+    "extends":"./base.json",
+    "compilerOptions":{
+        "target":"es6",
+        "outFile":"bundle6.js"
+    }
+}

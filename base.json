@@ -1,0 +1,7 @@
+{
+    "compilerOption":{
+        "removeComments":true,
+        "sourceMap":false
+    },
+    "Files":["fileconfigtest.ts"]
+}

@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": true,
+        "outFile": "configtest.js",
+        "sourceMap": true,
+        "outDir": "dist"
+           
+    },
+    "files": ["file1.ts","file2.ts"],
+    "include": ["file3.ts","dir1/file4.ts","dir1/file5.ts"],
+    "exclude": ["dir1/**"]
+    
+}

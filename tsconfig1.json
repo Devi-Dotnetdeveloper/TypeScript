@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": true,
+        "outDir": "dist",
+        "outFile": "bundle.js",
+        "sourceMap": false
+    },
+    "files": ["file1.ts","file2.ts","file3.ts"],
+    "include": ["dir1/file5.ts"],
+    "exclude": ["dir/file5.ts"]
+
+}
